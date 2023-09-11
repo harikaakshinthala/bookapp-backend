@@ -6,7 +6,7 @@ import cors from "cors";
 dotenv.config();
 
 const app = express();
-const PORT = 7000;
+const PORT = 8000;
 
 app.use(cors());
 //middleware while using post
